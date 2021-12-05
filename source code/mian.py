@@ -3,7 +3,7 @@ import pyautogui as pya
 import pyperclip
 
 English = [
-	'A',
+    'A',
     'B',
     'C',
     'D',
